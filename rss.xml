@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[allisonbraun]]></title>
         <description><![CDATA[allisonbraun]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/allisonbraun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 09:00:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Mar 2016 09:05:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/allisonbraun/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2af996b5-c093-4394-a066-22d4bf8fe81c.jpg">]]></description>
+            <link>https://thegrid.ai/allisonbraun/7ca077a5-3644-4030-95c3-6304bba56c40/index.html</link>
+            <guid isPermaLink="false">7ca077a5-3644-4030-95c3-6304bba56c40</guid>
+            <pubDate>Fri, 18 Mar 2016 09:05:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Woman, India]]></title>
             <description><![CDATA[<article><h1>Woman, India</h1><p>A rural village 2 hours outside of Chennai, India.</p></article>]]></description>
-            <link>undefinedwoman-india/index.html</link>
+            <link>https://thegrid.ai/allisonbraun/woman-india/index.html</link>
             <guid isPermaLink="false">7ba00fef-319b-4059-a2ef-1d04a8b4cae6</guid>
             <pubDate>Fri, 18 Mar 2016 09:00:05 GMT</pubDate>
         </item>
